@@ -17,3 +17,5 @@ y para correr la aplicacion
 
 npm run dev
 
+
+posdata: No me hago responsable por los chistes subidos de tonos generados por la API
