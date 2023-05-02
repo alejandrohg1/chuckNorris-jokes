@@ -7,4 +7,13 @@ Para hacer fetch de los datos lo hago con ayuda de un custom hook que cree, el c
 
 Para las categorias hice un sidebar el cual al seleccionar la categoria que deseas conocer el siguiente chiste sera especificamente de la categoria seleccionada
 
+use vite que es una herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida y ágil para proyectos web modernos.
+
+para instalar la apliacion usar el comando
+
+npm i 
+
+y para correr la aplicacion
+
+npm run dev
 
